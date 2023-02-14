@@ -1,11 +1,13 @@
-Primero Proyecto Nest - Sofka Cantera 2 Uy
+<h1>Primero Proyecto Nest - Sofka Cantera 2 Uy </h1>
 
 El ejercicio consiste en crear un proyecto NestJs en el que se pueda mostrar la siguiente cadena: " Este es mi primer proyecto en NEST"
 Pasos
 1. Instalar el clic y crear un nuevo proyecto
+2. 
 ![image](https://user-images.githubusercontent.com/10835935/218635687-116348f2-c596-47a5-8dba-c3a956f3754e.png)
 
 2. Con esto su servidor debe estar funcionando en http://localhost:3000/ se especificaen el archivo main.ts  que se utilizará para el servidor el puerto 3000; verificamos que efectivamente este disponible., y debe tener algo como esto en su directorio.
+3. 
 ![image](https://user-images.githubusercontent.com/10835935/218635904-fd071f62-dc37-48e7-a554-e37bd3cc3ed3.png)
 
 3. Luego abrimos el navegador y en la barra escribimos: localhost:3000/ verificamos que inicie y nos dija "hola mundo".
